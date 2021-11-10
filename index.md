@@ -1,6 +1,6 @@
 ## 欢迎使用
 
-![Image](https://icon.wuruihong.com/files/202111/QZeBCEgs/ios/AppIcon.appiconset/icon-40@2x.pngg)
+![Image](https://icon.wuruihong.com/files/202111/QZeBCEgs/ios/AppIcon.appiconset/icon-40@2x.png)
 
 欢迎使用App, 您遇到问题可以通过App内意见反馈或联系客服向我们反馈。
 
